@@ -41,7 +41,7 @@ values."
      better-defaults
      emacs-lisp
      git
-     scala
+     scalah
      ;; markdown
      ;; org
      ;; (shell :variables
